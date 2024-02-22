@@ -7,6 +7,6 @@ Per i numeri che sono sia multipli di 3 che di 5 stampi “FizzBuzz”.
 Possibile flusso
 1. Impostare Html
 2. Inserire ciclo di 100 blocchi
-3. Inserire la divisione dei cicli per multipli
+3. Inserire la divisione dei cicli per multipli 3 e 5
 4. Nominare le i dei blocchi
 5. 
